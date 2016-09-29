@@ -65,3 +65,84 @@ git clone https://alekmina@github.com/AleksanderMInakov
 8efc36
 git clone https://alekmina@github.com/AleksanderMInakov
 git clone https://alexmin@github.com/AleksanderMInakov
+git clone https://AleksanderMInakov@github.com/AleksanderMInakov/1.Tund.git
+git clone https://AleksanderMInakov@github.com/AleksanderMInakov/3.Tund.git
+echo "# 3.Tund" >> README.md
+git add login.php
+git init
+git add login.php
+git add README.md
+git commit -m "login.php"
+git push -u origin master
+git remote add origin https://github.com/AleksanderMInakov/3.Tund.git
+ls
+git status
+echo "# 3.Tund" >> README.md
+echo 3.Tund 
+git init
+echo 3.Tund
+git add login.php
+ls
+git clone https://AleksanderMinakov@github.com/AleksanderMInakov/1.kodutoo-IV-ruhm.git
+git add 
+git add .
+got commit
+ls
+git clone https://AleksanderMInakov@github.com/AleksanderMInakov/1.kodutoo-IV-ruhm.git
+cd public_html/1.kodutoo-IV-ruhm/
+git add .
+git commit -m "First commit"
+git push -u origin master
+curl http://greeeny.cs.tlu.ee/~jaagup/2016/abproj/koolid.txt |  curl http://greeeny.cs.tlu.ee/~jaagup/2016/abproj/koolid.txt | mysql -uif16 -pifikad16 if16_alekmina_4
+curl http://greeny.cs.tlu.ee/~jaagup/2016/abproj/koolid.txt |  curl http://greeeny.cs.tlu.ee/~jaagup/2016/abproj/koolid.txt | mysql -uif16 -pifikad16 if16_alekmina_4
+curl http://greeny.cs.tlu.ee/~jaagup/2016/abproj/koolid.txt | mysql -uif16 -pifikad16 if16_alekmina_4
+mysql -uif16 -pifikad16 if_16_alekmina_4
+SHOW TABLES
+SHOW TABLES;
+mysqladmin -uif16 -pfikad16 create if16_alekmina_4
+mysql -uif16 -pifikad16 if16_alekmina_4
+SELECT koolinimi, opilasi, ROUND(100*opilasi/(SELECT MAX(opilasi) FROM koolid), 1) AS protsent
+FROM koolid ORDER BY opilasi LIMIT 10;
+SELECT maakond, AVG(opilasi) FROM koolid GROUP BY maakond;
+r unexpected token `('
+[alekmina@greeny ~]$
+mysql
+SELECT maakond, AVG(opilasi) FROM koolid GROUP BY maakond;
+mysql -uif16 -pifikad16 if16_alekmina_4
+alexmin
+
+ls
+cd public_html 
+ls
+cd 3.Tund
+git add
+git add .
+git commit -m "login.php"
+git push origin master
+git clone https://AleksanderMInakov@github.com/AleksanderMInakov/4.Tund.git
+git add .
+git commit -m "login.php"
+git push origin master
+ls
+cd ..
+ls
+git add .
+git commit -m "login.php"
+git push origin master
+git remote set-url origin https://AleksanderMInakov@github.com/AleksanderMInakov/4.Tund.git
+git add .
+git commit -m "login.php"
+git push origin master
+cd 3.Tund
+cd 4.Tund
+git add
+git add .
+git commit -m "login.php"
+git push origin master
+mysql -uif16 -pifikad16 if16_alekmina
+mysql -uif16 -pifikad16 if16_alekmina_4
+git add .
+git commit -m "login.php"
+git push origin master
+exit
+mysql -uif16 -pifikad16 if16_alekmina_4

@@ -146,3 +146,167 @@ git commit -m "login.php"
 git push origin master
 exit
 mysql -uif16 -pifikad16 if16_alekmina_4
+git add .
+git commit -m "functions.php"
+git push origin master
+git add .
+cd 
+ls
+cd public_html
+cd
+ls
+cd public_html
+ls
+cs 3.Tund
+cd 3.Tund/
+ls
+cd 4.Tund/
+ls
+git add .
+git commit -m "functions.php"
+git commit -m "data.php"
+git commit -m "login.php"
+git push origin master
+mysql -uif16 -pifikad16 if16_alekmina_4
+ls public_html/
+cd public_html/
+git clone https://AleksanderMInakov@github.com/AleksanderMInakov/2.kodutoo-IV-ruhm.git
+exit
+ls
+cd public_html/
+ls
+git clone https://AleksanderMInakovgithub.com/AleksanderMInakov/7.tund-IV-ruhm.git
+ls
+git clone https://AleksanderMInakov@github.com/AleksanderMInakov/7.tund-IV-ruhm.git
+git add .
+git commit -m "lisand"
+git push origin master
+cd 7.tund-IV-ruhm/
+git add .
+git commit -m "lisand"
+git push origin master
+exit
+mysql -uif16 -pifika16 if16_alekmina_4
+mysql -uif16 -pifikad16 if16_alekmina_4
+exit
+cd public_html/
+git clone https://AleksanderMInakov@github.com/veebiprogrammeerimine-2016s/10.tund-IV-ruhm.git
+exit
+cd  public_html/
+git clone https://AleksanderMInakov@github.com/grim4ik/R-hmat-projekt.git
+cd R-hmat-projekt/
+git config user.name "Aleksander Minakov"
+git config user.email AleksanderMInakov@users.noreply.github.com
+git fetch
+git pull
+git fecth 
+git fetch
+git pull
+git add .
+git commit -m "Edit"
+git push origin master
+git fecth 
+git pull
+git fetch
+git pull
+git fetch
+git pull
+git fetch
+git pull
+git add .
+git commit -m "Oab"
+git push
+git add .
+git commit -m "Oab"
+git push
+git fetch
+git pull
+git fetch
+git pull
+git fetch
+git pull
+git add
+git add .
+git commit -m "Plan"
+git push origin master
+git fetch
+git pull
+exit
+учше
+exit
+git fetch
+git pull
+cd public_html/
+cd R-hmat-projekt/
+git fetch
+git pull
+git fetch
+git pull
+git add . 
+git commit -m "update login"
+git push origin master
+git fetch 
+git pull
+mysql -uif16 -pifikad16 if16_alekmina_4
+exit
+cd public_html/
+cd R-hmat-projekt/
+git fetch
+git pull
+git fetch
+git pull
+git fetch
+git pull
+git add .
+git commit -m "added upload.php
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"
+git push origin master
+git fetch
+git pull
+git fetch 
+git pull
+git add .
+git commit -m "added foto upload"
+git push origin master
+git add .
+git commit -m "added photo upload"
+git push origin master
+git add .
+git commit -m "added upload pic"
+git push origin master
+git add .
+git commit -m "added pic upload"
+git push origin master
+git fetch
+git pull
+git add .
+git commit -m "added upload"
+git push origin master
+git fetch
+git pull
+cd README.md exit
+cd public_html/
+cd R-hmat-projekt/
+git add .
+git commit -m "added upload directory"
+git push origin master
+exit
